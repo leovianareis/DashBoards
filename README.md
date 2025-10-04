@@ -1,2 +1,2 @@
-# DashBoards - Iniciante
+# Metabase / DashBoards - Iniciante
 Cases de Análises
